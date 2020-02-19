@@ -1,0 +1,15 @@
+.build/
+.idea/
+
+.gemini-react-tmp/
+.gemini.tmp.*/
+coverage/
+gemini*/
+
+.gemini.js
+.travis.yml
+appveyor.yml
+test-results.xml
+
+ISSUE_TEMPLATE.md
+PULL_REQUEST_TEMPLATE.md

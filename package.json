@@ -1,0 +1,36 @@
+{
+  "name": "hermione-react",
+  "version": "1.0.0",
+  "description": "Sandbox plugin for hermione. Simplifies sriting hermione tests for react components.",
+  "main": "index.js",
+  "author": {
+    "name": "Smirnov Aleksey",
+    "email": "lirien42@gmail.com",
+    "url": "https://github.com/Poletay"
+  },
+  "bugs": {
+    "url": "https://github.com/alfa-laboratory/hermione-react/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mkdirp": "^1.0.3",
+    "server-destroy": "^1.0.1",
+    "webpack-dev-middleware": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-react": "^7.18.3",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5"
+  },
+  "peerDependencies": {
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5"
+  }
+}
